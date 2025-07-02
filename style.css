@@ -33,6 +33,11 @@ nav ul li a {
 
 .banner-container img {
     width: 100%;
-    height: 150px;
+    height: 225px;
     margin: 35px auto;
+}
+
+.video-container {
+  text-align: right;
+  padding-top: 100px;
 }
