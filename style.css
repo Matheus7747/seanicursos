@@ -69,3 +69,8 @@ nav ul li a {
   margin-top: 20px;
   border-radius: 8px;
 }
+
+.Galeria img {
+    width: 200px;
+  height: 100px;
+}
